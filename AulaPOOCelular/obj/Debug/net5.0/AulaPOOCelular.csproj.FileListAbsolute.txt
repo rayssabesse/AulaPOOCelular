@@ -1,0 +1,16 @@
+E:\senai\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.exe
+E:\senai\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.deps.json
+E:\senai\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.runtimeconfig.json
+E:\senai\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.runtimeconfig.dev.json
+E:\senai\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.dll
+E:\senai\AulaPOOCelular\bin\Debug\net5.0\ref\AulaPOOCelular.dll
+E:\senai\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.pdb
+E:\senai\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.csprojAssemblyReference.cache
+E:\senai\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.GeneratedMSBuildEditorConfig.editorconfig
+E:\senai\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.AssemblyInfoInputs.cache
+E:\senai\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.AssemblyInfo.cs
+E:\senai\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.csproj.CoreCompileInputs.cache
+E:\senai\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.dll
+E:\senai\AulaPOOCelular\obj\Debug\net5.0\ref\AulaPOOCelular.dll
+E:\senai\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.pdb
+E:\senai\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.genruntimeconfig.cache
